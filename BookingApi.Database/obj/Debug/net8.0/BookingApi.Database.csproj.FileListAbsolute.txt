@@ -1,0 +1,15 @@
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\obj\Debug\net8.0\BookingApi.Database.csproj.AssemblyReference.cache
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\obj\Debug\net8.0\BookingApi.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\obj\Debug\net8.0\BookingApi.Database.AssemblyInfoInputs.cache
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\obj\Debug\net8.0\BookingApi.Database.AssemblyInfo.cs
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\obj\Debug\net8.0\BookingApi.Database.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\bin\Debug\net8.0\BookingApi.Database.deps.json
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\bin\Debug\net8.0\BookingApi.Database.dll
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\bin\Debug\net8.0\BookingApi.Database.pdb
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\bin\Debug\net8.0\BookingApi.Saga.dll
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\bin\Debug\net8.0\BookingApi.Saga.pdb
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\obj\Debug\net8.0\BookingApi.Database.csproj.CopyComplete
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\obj\Debug\net8.0\BookingApi.Database.dll
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\obj\Debug\net8.0\refint\BookingApi.Database.dll
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\obj\Debug\net8.0\BookingApi.Database.pdb
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Database\obj\Debug\net8.0\ref\BookingApi.Database.dll

@@ -1,0 +1,17 @@
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\obj\Debug\net8.0\BookingApi.Handlers.csproj.AssemblyReference.cache
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\obj\Debug\net8.0\BookingApi.Handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\obj\Debug\net8.0\BookingApi.Handlers.AssemblyInfoInputs.cache
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\obj\Debug\net8.0\BookingApi.Handlers.AssemblyInfo.cs
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\obj\Debug\net8.0\BookingApi.Handlers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\bin\Debug\net8.0\BookingApi.Handlers.deps.json
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\bin\Debug\net8.0\BookingApi.Handlers.dll
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\bin\Debug\net8.0\BookingApi.Handlers.pdb
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\bin\Debug\net8.0\BookingApi.Database.dll
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\bin\Debug\net8.0\BookingApi.Saga.dll
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\bin\Debug\net8.0\BookingApi.Database.pdb
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\bin\Debug\net8.0\BookingApi.Saga.pdb
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\obj\Debug\net8.0\BookingApi.Handlers.csproj.CopyComplete
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\obj\Debug\net8.0\BookingApi.Handlers.dll
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\obj\Debug\net8.0\refint\BookingApi.Handlers.dll
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\obj\Debug\net8.0\BookingApi.Handlers.pdb
+C:\Users\Stefan Djokic\source\repos\BookingApi\BookingApi.Handlers\obj\Debug\net8.0\ref\BookingApi.Handlers.dll

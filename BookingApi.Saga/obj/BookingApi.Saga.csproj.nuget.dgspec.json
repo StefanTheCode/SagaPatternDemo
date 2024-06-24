@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Stefan Djokic\\source\\repos\\BookingApi\\BookingApi.Saga\\BookingApi.Saga.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Stefan Djokic\\source\\repos\\BookingApi\\BookingApi.Saga\\BookingApi.Saga.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stefan Djokic\\source\\repos\\BookingApi\\BookingApi.Saga\\BookingApi.Saga.csproj",
+        "projectName": "BookingApi.Saga",
+        "projectPath": "C:\\Users\\Stefan Djokic\\source\\repos\\BookingApi\\BookingApi.Saga\\BookingApi.Saga.csproj",
+        "packagesPath": "C:\\Users\\Stefan Djokic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan Djokic\\source\\repos\\BookingApi\\BookingApi.Saga\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Stefan Djokic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://essity-projects.pkgs.visualstudio.com/_packaging/EssityPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
